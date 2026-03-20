@@ -1,1 +1,41 @@
-hei
+
+- A-Å for skranken (HumSam): https://www-int.uio.no/for-ansatte/enhetssider/ub/publikumsarbeid/uhs/skranke/forside-skranken-a-aa.html
+- Back office: https://www-int.uio.no/for-ansatte/enhetssider/ub/publikumsarbeid/uhs/skranke/back-office.html
+- Passord til Syn: https://www-int.uio.no/for-ansatte/enhetssider/ub/publikumsarbeid/pliktavlevert-digitalt.html
+- Syn: https://www.nb.no/syn/auth/login?returnTo=search
+- Alma: http://alma.bibsys.no/ubo
+- Brukerregistrering: https://www-int.uio.no/for-ansatte/enhetssider/ub/publikumsarbeid/lantakerregistrering-i-alma.html
+- Utskrift UIO: https://www.uio.no/tjenester/it/utskrift/index.html
+- Dewey: https://www.oria.no/dewey/index.php
+- E-post liste UB: https://www-int.uio.no/for-ansatte/enhetssider/ub/epostliste/
+- Hvorfor kommer ikke utskriften?: https://www.uio.no/tjenester/it/utskrift/hjelp/hvorfor.html
+- Saldo Utskrift: https://www.uio.no/tjenester/it/utskrift/hjelp/saldo.html
+- Romsøk UiO: https://www.uio.no/om/finn-fram/omrader/blindern/bl27/
+- MazeMap: https://use.mazemap.com/#v=1&config=uio&zlevel=1&center=10.722404,59.939227&zoom=18.9&campusid=797&sharepoitype=poi&sharepoi=1000950307
+- TP - Timetable all room GSH: https://tp.educloud.no/uio/timeplan/?type=room&area[]=BL&building[]=BL27&id[]=allRoomsBL27&stop=1&ar=2025&hide_old=1
+- TP - Bekrefte oppmøtes: https://tp.educloud.no/uio/timeplan/vas.php?area=BL&building=BL27&details=on
+- TP Rom Bestilling: https://tp.educloud.no/uio/app/rombestilling/
+- TP - Hvilerom Booking: https://tp.educloud.no/uio/timeplan/?type=room&area%5B%5D=&building%5B%5D=&id%5B%5D=BL27U522
+- Kurs og arrangementer: https://www.ub.uio.no/kurs-arrangement/
+- Personsøk: https://www.uio.no/personer/
+- Basebibliotek - Lib nummer til biblioteker: https://www.nb.no/basebibliotek/search?q=universitetsbibliotek+bergen&altkode=&land=&fylke=&kommune=
+- APA-Blog: https://apastyle.apa.org/style-grammar-guidelines/citations/quotations
+- Innlån: https://www-int.uio.no/for-ansatte/enhetssider/ub/publikumsarbeid/uhs/innlan/regler-for-innlan.html
+- Citation Maching: https://www.citationmachine.net/apa
+- Åpningstider biblioteker: https://www.ub.uio.no/bibliotekene/
+- IT-hjelp: https://www.uio.no/tjenester/it/kontakt/
+- Programkiosk (R, og andre programmer på UiO maskin): https://www.uio.no/tjenester/it/maskin/programvare/programkiosk/
+- IT Driftsmeldinger: https://www.uio.no/tjenester/it/aktuelt/driftsmeldinger/
+- Brann - Evakueringsplan: https://www.ub.uio.no/om/hms/brannvern/brann-og-evakueringsplan-universitetsbiblioteket-v4.pdf
+- Si Ifra: https://www.uio.no/studier/kontakt/si-fra/index.html
+- Leserom UB: https://www.ub.uio.no/bruk/rom/
+- Brannvern: https://www.ub.uio.no/om/hms/brannvern/
+- Livreddende førstehjelp hjem: https://www.rodekorsforstehjelp.no/rad-og-informasjon/forstehjelptips/livreddende-forstehjelp/?gad_source=1&gclid=Cj0KCQiA7se8BhCAARIsAKnF3rzTdYtfGDbCjVd2_cZ_TTEYG-h1gbAVrNW6yBlFdDt6BZ3QL0-CvbYaAjfMEALw_wcB
+- Hjertestarter: https://www.ub.uio.no/om/hms/hjertestarter/
+- Alt om lån: https://www.ub.uio.no/bruk/alt-om-lan/
+- Hjerte-lungeredning (puster ikke): https://www.helsenorge.no/forstehjelp/hjerte-og-lungeredning/
+- Vakttillegg - OneDrive uio: https://uio-my.sharepoint.com/my?id=%2Fpersonal%2Fjmutnes%5Fuio%5Fno%2FDocuments%2FWork%5FHumSam&FolderCTID=0x01200027A3DA5669F1A747B9FE9EE2B9C119CA
+- Førstehjelp Pasientundersøkelse: https://www.rodekorsforstehjelp.no/rad-og-informasjon/forstehjelptips/livreddende-forstehjelp/pasientundersokelsen/
+- Kontaktoversikt: https://www-int.uio.no/for-ansatte/enhetssider/ub/publikumsarbeid/uhs/skranke/kontaktoversikt.html
+- Støy/Stillerom/Soneinndeling: https://www.ub.uio.no/bruk/rom/uhs/soneinndeling.html
+- Innkjøpsforslag Bøker: https://www.ub.uio.no/bruk/innkjopsforslag/
