@@ -1,4 +1,3 @@
-
 - A-Å for skranken (HumSam): https://www-int.uio.no/for-ansatte/enhetssider/ub/publikumsarbeid/uhs/skranke/forside-skranken-a-aa.html
 - Back office: https://www-int.uio.no/for-ansatte/enhetssider/ub/publikumsarbeid/uhs/skranke/back-office.html
 - Passord til Syn: https://www-int.uio.no/for-ansatte/enhetssider/ub/publikumsarbeid/pliktavlevert-digitalt.html
