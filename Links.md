@@ -6,7 +6,7 @@
 - [Alma](http://alma.bibsys.no/ubo)
 - [Brukerregistrering](https://www-int.uio.no/for-ansatte/enhetssider/ub/publikumsarbeid/lantakerregistrering-i-alma.html)
 - [Utskrift UIO](https://www.uio.no/tjenester/it/utskrift/index.html)
-- [Dewey](https://www.oria.no/dewey/index.php)
+- [Dewey](https://deweysearchno.pansoft.de/webdeweysearch/mainClasses.html)
 - [E-post liste UB](https://www-int.uio.no/for-ansatte/enhetssider/ub/epostliste/)
 - [Hvorfor kommer ikke utskriften?](https://www.uio.no/tjenester/it/utskrift/hjelp/hvorfor.html)
 - [Saldo Utskrift](https://www.uio.no/tjenester/it/utskrift/hjelp/saldo.html)
